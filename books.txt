@@ -1,0 +1,2 @@
+101,Silber,os,68,3,fdk,1,0
+110,Harry,Harry Potter,1998,5,Story,0,0
